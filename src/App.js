@@ -45,7 +45,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Bill/Invoice Generator</h1>
+            <h1>FACTURE</h1>
             <BillDetails onAddItem={handleAddItem} />
             <ItemList items={items}
                 onDeleteItem={handleDeleteItem} />
